@@ -39,7 +39,7 @@ To run the Solar System Simulation on your local machine, follow these steps:
 
 ## Documentation
 
-The Solar System Simulation project is implemented in Fortran and Python. The Fortran code handles the backend calculations, while the Python code, along with Pygame, creates the interactive front-end.
+The Solar System Simulation project is implemented in Fortran and Python. The Fortran code handles the backend calculations, while the Python code, along with Pygame, creates the interactive front end.
 
 The simulation uses Newton's law of universal gravitation to calculate the gravitational forces between celestial bodies, resulting in realistic planetary orbits.
 
@@ -49,10 +49,12 @@ This project is open-source and available under the [MIT License](LICENSE.md). Y
 
 ## Acknowledgments
 
-This project was made possible with the contributions of open-source libraries and resources from the scientific and programming communities. We would like to thank [list of contributors or libraries] for their valuable support.
+This project was made possible with the contributions of open-source libraries and resources from the scientific and programming communities. I would like to acknowledge the [Pygame] (https://www.pygame.org/) community for their invaluable contributions to this project. Pygame library provided the foundation for creating the interactive front end of the Solar System simulation.
+
+- Pygame: [https://www.pygame.org/](https://www.pygame.org/)
+
 
 ## Contact
-
 For questions, suggestions, or contributions, please feel free to contact the project maintainer:
 
 - Mikiyas Meles Assefa
@@ -61,7 +63,7 @@ For questions, suggestions, or contributions, please feel free to contact the pr
 
 ## Contributing
 
-We welcome contributions from the community. If you would like to contribute to this project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+If you would like to contribute to this project, I welcome contributions from the community. 
 
 ## Updates and Maintenance
 
