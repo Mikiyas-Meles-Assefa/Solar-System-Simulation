@@ -52,9 +52,9 @@ This project was made possible with the contributions of open-source libraries a
 
 For questions, suggestions, or contributions, please feel free to contact the project maintainer:
 
-- Your Name
-- Email: your@email.com
-- GitHub: [your-username](https://github.com/your-username)
+- Mikiyas Meles Assefa
+- Email: mikiyasmeles.302419.cs@gmail.com
+- GitHub: [https://github.com/Mikiyas-Meles-Assefa)
 
 ## Contributing
 
@@ -63,8 +63,3 @@ We welcome contributions from the community. If you would like to contribute to 
 ## Updates and Maintenance
 
 This project is actively maintained, and updates are planned to enhance its features and usability. Community contributions and feedback are highly appreciated in the ongoing development of the Solar System Simulation.
-```
-
-Replace placeholders such as `[your-username]`, `[list of contributors or libraries]`, and `[your@email.com]` with your actual information. Additionally, make sure to include your project's screenshots or images in the `images` folder and adjust the paths accordingly in the README.
-
-Feel free to customize this template to suit your project's specific details and requirements.
