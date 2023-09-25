@@ -6,6 +6,10 @@
 
 The Solar System Simulation project is an interactive program that simulates the orbits of planets and celestial bodies within our Solar System. It provides a visual representation of planetary motion and gravitational forces, making it an educational and captivating tool for space enthusiasts and learners.
 
+
+![Uploading image.png…]()
+
+
 ![Solar System Simulation Screenshot](images/screenshot.png)
 
 ## How to Run
