@@ -9,7 +9,7 @@ The Solar System Simulation project is an interactive program that simulates the
 
 
 
-![Solar System Simulation Screenshot](image.png)
+![Solar System Simulation Screenshot](mySolar_System/image.png)
 
 ## How to Run
 
