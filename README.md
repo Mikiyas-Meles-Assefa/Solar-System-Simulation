@@ -11,6 +11,21 @@ I started to build this after I learned about gravitational motion in my junior 
 
 ![Solar System Simulation Screenshot](mySolar_System/image.png)
 
+## Scaling
+Using the same scale for all planets caused an issue: the screen only displayed the inner planets.
+![image](https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation/assets/146025501/da4f1ae9-40f3-4f26-bb5f-35d37441b662)
+![image](https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation/assets/146025501/656937c9-bc8b-46b0-9691-311dc75aa1e3)
+
+Increasing the scale reduction by a factor of 10 brought the outer planets into view, but the inner planets ended up overlapping and some seemed to be drawn towards the sun.
+![image](https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation/assets/146025501/835ecf2e-14f8-4fa3-8def-cb14a0a402d1)
+![image](https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation/assets/146025501/59b49ebe-5a4f-4b74-8f98-a25d118d7c02)
+
+I tried adding a ZOOMING feature to it, but it failed to show the overall picture of planetary motions. So I used different scales for each planet.
+![image](https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation/assets/146025501/a62a18da-cf67-40d6-a1f1-afb15798b288)
+![Solar System Simulation Screenshot](mySolar_System/image.png)
+## note
+The slight overlap of Venus and Mercury is due to their actual paths in 3D space, while Jupiter and Uranus appear to intersect because of the different scales used for each planet.
+
 ## How to Run
 
 To run the Solar System Simulation on your local machine, follow these steps:
