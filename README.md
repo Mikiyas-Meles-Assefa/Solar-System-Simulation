@@ -6,8 +6,8 @@
 
 The Solar System Simulation project is an interactive program that simulates the orbits of planets and celestial bodies within our Solar System. It provides a visual representation of planetary motion and gravitational forces, making it an educational and captivating tool for space enthusiasts and learners.
 
-
-
+##Why I build it
+I started to build this after I learned about gravitational motion in my junior year, and I wanted to check if we calculate the forces between each planet and other masses in that system result in an acceleration and hence change in velocity to create an elliptical path and my program verified that it it is true.
 
 ![Solar System Simulation Screenshot](mySolar_System/image.png)
 
@@ -20,7 +20,7 @@ To run the Solar System Simulation on your local machine, follow these steps:
 2. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/Solar-System-Simulation.git
+   git clone https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation.git
    ```
 
 3. **Navigate to the Project Directory**: Change your current directory to the project folder:
