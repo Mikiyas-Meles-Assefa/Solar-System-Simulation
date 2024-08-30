@@ -73,7 +73,7 @@ This project was made possible with the contributions of open-source libraries a
 For questions, suggestions, or contributions, please feel free to contact the project maintainer:
 
 - Mikiyas Meles Assefa
-- Email: mikiyasmeles.302419.cs@gmail.com
+- Email: massefa@andrew.cmu.edu
 - GitHub: [https://github.com/Mikiyas-Meles-Assefa)
 
 ## Contributing
