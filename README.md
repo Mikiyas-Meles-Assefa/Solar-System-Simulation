@@ -26,9 +26,6 @@ I tried adding a ZOOMING feature to it, but it failed to show the overall pictur
 ## note
 The slight overlap of Venus and Mercury is due to their actual paths in 3D space, while Jupiter and Uranus appear to intersect because of the different scales used for each planet.
 
-
-## Documentation
-
 The Solar System Simulation project is implemented in Fortran and Python. The Fortran code handles the backend calculations, while the Python code, along with Pygame, creates the interactive front end.
 
 The simulation uses Newton's law of universal gravitation to calculate the gravitational forces between celestial bodies, resulting in realistic planetary orbits.
@@ -39,7 +36,7 @@ This project is open-source and available under the [MIT License](LICENSE.md). Y
 
 ## Acknowledgments
 
-This project was made possible with the contributions of open-source libraries and resources from the scientific and programming communities. I would like to acknowledge the [Pygame] (https://www.pygame.org/) community for their invaluable contributions to this project. Pygame library provided the foundation for creating the interactive front end of the Solar System simulation.
+This project was made possible with the contributions of open-source libraries and resources from the scientific and programming communities. I would like to acknowledge the [Pygame] (https://www.pygame.org/) for providing the foundation for creating the interactive front end of the Solar System simulation.
 
 - Pygame: [https://www.pygame.org/](https://www.pygame.org/)
 
