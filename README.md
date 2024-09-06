@@ -26,31 +26,6 @@ I tried adding a ZOOMING feature to it, but it failed to show the overall pictur
 ## note
 The slight overlap of Venus and Mercury is due to their actual paths in 3D space, while Jupiter and Uranus appear to intersect because of the different scales used for each planet.
 
-## How to Run
-
-To run the Solar System Simulation on your local machine, follow these steps:
-
-1. **Prerequisites**: Ensure you have Python and Fortran installed on your system.
-
-2. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/Mikiyas-Meles-Assefa/Solar-System-Simulation.git
-   ```
-
-3. **Navigate to the Project Directory**: Change your current directory to the project folder:
-
-   ```bash
-   cd Solar-System-Simulation
-   ```
-
-4. **Compile and Execute**: Compile the Fortran code and run the Python front-end by executing the following command:
-
-   ```bash
-   ./run_simulation.sh
-   ```
-
-   This script will compile the Fortran code and then execute the Python program with Pygame to visualize the Solar System simulation.
 
 ## Documentation
 
